@@ -27,7 +27,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="68"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla frågor och instruktioner kopieras från Aron et al. (1997: 374f) och har endast anpassats något för detta spel.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="71"/>
@@ -62,7 +62,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="105"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>Uiguriska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="111"/>
@@ -127,7 +127,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="202"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>Persiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="209"/>
@@ -137,7 +137,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malajiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="221"/>
@@ -207,17 +207,17 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="333"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabiska</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="351"/>
         <source>Allow skipping timers</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillåt att hoppa över timer</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>Text of the 36 questions</source>
-        <translation type="unfinished"></translation>
+        <translation>Text för de 36 frågorna</translation>
     </message>
 </context>
 <context>
@@ -256,27 +256,27 @@
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="112"/>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu kör vi!</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="69"/>
         <source>This game is about getting close to another person through sharing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta spel handlar om att komma närmare en annan person igenom att dela med sig.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="81"/>
         <source>You will be given 36 tasks. One of you should read one aloud, and then &lt;b&gt;both&lt;/b&gt; do what it asks, starting with the person who read the task aloud.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ni kommer att få 36 uppgifter. En av er ska läsa högt, och sedan skall &lt;b&gt;båda&lt;/b&gt; göra det som frågas, börja med den personen som läser uppgiften högt.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="90"/>
         <source>Alternate with reading each question to your partner. If it asks you a question, share your answer, then let them share their answer with you. If it is a task, do it first, then let your partner do it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs varannan fråga, turas om med din spelpartner. Om den ställer dig en fråga, dela med dig av ditt svar, och låt sedan dem dela mig sig av sitt svar. Om det är en uppgift, gör den först, och låt sedan din partner göra det.</translation>
     </message>
     <message>
         <location filename="../qml/pages/IntroPage.qml" line="100"/>
         <source>Take plenty of time with each item, doing what it asks thoroughly and thoughtfully - but &lt;b&gt;do not skip&lt;/b&gt; any item.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta gott om tid för varje uppgift, att göra vad som står noggrant och igenomtänkt - but &lt;b&gt;hoppa inte över&lt;/b&gt; något.</translation>
     </message>
 </context>
 <context>
@@ -558,7 +558,7 @@
         <location filename="../qml/pages/QuestionPage.qml" line="191"/>
         <location filename="../qml/pages/QuestionPage.qml" line="208"/>
         <source>Start timer</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta timer</translation>
     </message>
     <message>
         <location filename="../qml/pages/QuestionPage.qml" line="63"/>
@@ -619,12 +619,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du vaknade imorgon och hade kunnat få en ny kunskap eller förmåga, vad skulle det vara?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om en kristallkula kunde berätta sanningen om dig själv för dig, ditt liv, framtiden eller vad som helst - vad hade du då velat få veta?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="69"/>
@@ -652,7 +652,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör tre sanna &quot;vi&quot;-påståenden var. Till exempel: &quot;Vi är båda i detta rum och känner...&quot;</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="84"/>
@@ -687,7 +687,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du kunde leva tills 90 års ålder och antingen behålla sinnet eller kroppen av en 30-åring de sista 60 åren av ditt liv, vad skulle du välja?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="51"/>
@@ -717,7 +717,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är det något du länge drömt om att kunna göra? Varför har du inte gjort det?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="60"/>
@@ -742,7 +742,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du visste att du plötsligt skulle dö om ett år, hade du ändrat hur du lever nu? Varför?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="65"/>
@@ -757,12 +757,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished"></translation>
+        <translation>Turas om att dela med er av något som ni ser som en positiv egenskap med din partner. Dela med er 5 saker totalt.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hur nära och varm är din familj? Känner du att din barndom var bättre än de flesta andras?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="72"/>
@@ -772,12 +772,12 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du skulle bli nära vän med din partner, vad skulle vara viktigt för hen att veta?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished"></translation>
+        <translation>Berätta för din partner vad du gillar om hen; var väldigt ärlig den här gången och säg saker du kanske inte skulle säga till någon du precis mött.</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="75"/>
@@ -797,17 +797,17 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad (om något) är för allvarligt att skämta om?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du hade dött ikväll utan möjligheten att prata med någon, vad hade du ångrat mest att du inte sagt till någon? Varför har du inte sagt det till hen än?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditt hus som innehåller allt du äger börjar brinna. Efter att du räddat dina nära och kära och husdjur har du tid att springa in och rädda en sak utan att bli skadad. Vad skulle det vara? Varför?</translation>
     </message>
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="81"/>
@@ -817,7 +817,7 @@
     <message>
         <location filename="../qml/harbour-lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela med dig av ett personligt problem och be din partner om råd om hur hen skulle hantera det. Be även din partner att reflektera hur hen tror du känner dig angående problemet.</translation>
     </message>
 </context>
 </TS>
