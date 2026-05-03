@@ -1,6 +1,6 @@
 /*
  * This file is part of harbour-lovegame.
- * SPDX-FileCopyrightText: 2022-2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2022-2026 Mirian Margiani
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -28,7 +28,6 @@ A.AboutPageBase {
     appVersion: APP_VERSION
     appRelease: APP_RELEASE
 
-    allowDownloadingLicenses: false
     sourcesUrl: "https://github.com/ichthyosaurus/%1".arg(Qt.application.name)
     homepageUrl: "https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753"
     translationsUrl: "https://hosted.weblate.org/projects/%1".arg(Qt.application.name)
@@ -45,7 +44,6 @@ A.AboutPageBase {
 
     description: qsTr("A game about bonding.")
     mainAttributions: ["2022-%1 Mirian Margiani".arg((new Date()).getFullYear())]
-    autoAddOpalAttributions: true
 
     attributions: [
         A.Attribution {
