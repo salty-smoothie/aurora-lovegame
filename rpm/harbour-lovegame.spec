@@ -14,7 +14,7 @@ Version:    1.2.2
 Release:    1
 Group:      Amusements/Games
 License:    GPL-3.0-or-later
-URL:        https://github.com/ichthyosaurus/harbour-lovegame
+URL:        https://codeberg.org/ichthyosaurus/harbour-lovegame
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-lovegame.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
