@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ts": "xml",
+        "*.desktop": "ini",
+        "*.spec": "shellscript",
+        "*.pro": "shellscript",
+        "*.changes": "shellscript"
+    }
+}

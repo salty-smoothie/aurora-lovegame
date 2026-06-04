@@ -1,11 +1,13 @@
 # This file is part of harbour-lovegame.
 # SPDX-FileCopyrightText: 2022-2024 Mirian Margiani
+# SPDX-FileCopyrightText: 2026 Smooth-E
 # SPDX-License-Identifier: GPL-3.0-or-later
+
 [Desktop Entry]
 Type=Application
 X-Nemo-Application-Type=silica-qt5
-Icon=harbour-lovegame
-Exec=harbour-lovegame
+Icon=moe.smoothie.lovegame
+Exec=moe.smoothie.lovegame
 Name=36 Questions
 
 # TRANSLATORS
@@ -16,11 +18,9 @@ Name=36 Questions
 # please test it before submitting your translation.
 Name[en]=36 Questions
 Name[de]=36 Fragen
+Name[ru]=36 вопросов
 
-[X-Sailjail]
+[X-Application]
 Permissions=Audio
-OrganizationName=harbour-lovegame
-ApplicationName=harbour-lovegame
-
-[X-HarbourBackup]
-BackupConfigList=/apps/harbour-lovegame/
+OrganizationName=moe.smoothie
+ApplicationName=lovegame
