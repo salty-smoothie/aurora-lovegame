@@ -1,10 +1,16 @@
 # This file is part of harbour-lovegame.
 # SPDX-License-Identifier: GPL-3.0-or-later
 # SPDX-FileCopyrightText: 2021-2024 Mirian Margiani
+# SPDX-FileCopyrightText: 2026 Smooth-E
 #
 # FORMAT:
 # * date Author's Name <author's email> version-release
 # - Summary of changes
+
+* Sat Aug 22 2026 Smooth-E <smoothie@disroot.org> 1.2.2.1-1
+- Первый релиз для ОС Аврора
+- Обновлены переводы на русский язык
+- Перелистывания страниц теперь недоступно при запущенном таймере
 
 * Fri Mar 14 2025 Mirian Margiani <mixosaurus+ichthyo@pm.me> 1.2.2-1
 - Updated translations: Czech, Ukrainian

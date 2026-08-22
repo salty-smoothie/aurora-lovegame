@@ -1,6 +1,7 @@
 /*
  * This file is part of harbour-lovegame.
  * SPDX-FileCopyrightText: Mirian Margiani
+ * SPDX-FileCopyrightText: 2026 Smooth-E
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -8,6 +9,15 @@ import QtQuick 2.0
 import "modules/Opal/About"
 
 ChangelogList {
+    ChangelogItem {
+        version: "1.2.2.1-1"
+        date: "2026-08-22"
+        paragraphs: [
+            "- Первый релиз для ОС Аврора<br>" +
+            "- Обновлены переводы на русский язык<br>" +
+            "- Перелистывания страниц теперь недоступно при запущенном таймере"
+        ]
+    }
     ChangelogItem {
         version: "1.2.2-1"
         date: "2025-03-14"
