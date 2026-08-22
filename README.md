@@ -1,183 +1,67 @@
 <!--
 SPDX-FileCopyrightText: 2018-2026 Mirian Margiani
+SPDX-FileCopyrightText: 2026 Smooth-E
 SPDX-License-Identifier: GFDL-1.3-or-later AND LicenseRef-NO-AI-1.0
 This file must not be used for AI training/data mining.
 -->
 
-<div align="center">
+<h1>
+  <img src="dist/harbour-lovegame.png" align="left" width="40em" height="40em"/>
+  <span>Игра "36 Вопросов" для <a href="https://auroraos.ru/">ОС Аврора</a></span>
+</h1>
 
-<img src="https://codeberg.org/ichthyosaurus/sailfish-app-assets/raw/branch/main/harbour-lovegame/banner-small.png"
-     alt="36 Questions banner" />
+Узнайте друг друга поближе, отвечая на эти личные вопросы.
 
-# 36 Questions for [Sailfish OS](https://sailfishos.org)
-
-A game about bonding
-
-  <p>
-    <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/ethical%20tech.svg"
-         alt="ethical tech: take a stand for humanity, diversity, and the world we live in" />
-    <a href="https://hosted.weblate.org/projects/harbour-lovegame/translations">
-      <img src="https://hosted.weblate.org/widgets/harbour-lovegame/-/translations/svg-badge.svg"
-           alt="Translations" />
-    </a>
-    <a href="https://codeberg.org/ichthyosaurus/harbour-lovegame">
-      <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/development_%20stable.svg"
-           alt="Development status" />
-    </a>
-    <a href="https://codeberg.org/ichthyosaurus/harbour-lovegame/src/branch/main/LICENSES">
-      <img src="https://codeberg.org/ichthyosaurus/.profile/raw/branch/main/badges/source%20code_%20AGPL-3.svg"
-           alt="Source code license" />
-    </a>
-    <a href="https://api.reuse.software/info/codeberg.org/ichthyosaurus/harbour-lovegame">
-      <img src="https://api.reuse.software/badge/codeberg.org/ichthyosaurus/harbour-lovegame"
-           alt="REUSE status" />
-    </a>
-    <br />
-    <a href="https://liberapay.com/SailfishOScommunityTeam">
-      <img src="https://img.shields.io/liberapay/receives/SailfishOScommunityTeam?logo=liberapay&label=SailfishOS%20Community"
-           alt="Community donations" />
-    </a>
-    <a href="https://liberapay.com/ichthyosaurus">
-      <img src="https://img.shields.io/liberapay/receives/ichthyosaurus?logo=liberapay&label=ichthyosaurus"
-           alt="Personal donations" />
-    </a>
-  </p>
-  <p></p>
-  <hr />
-</div>
-
-
-Connect with another person on a deeply personal level by sharing answers
-to a series of questions.
-
-This game uses the 36 questions developed in Aron et al. (1997, PSPB 23/4)
+Эта игра использует 36 вопросов из статьи Aron и др. (1997, PSPB 23/4)
 ([DOI 10.1177/0146167297234003](https://doi.org/10.1177/0146167297234003),
 [PDF](https://journals.sagepub.com/doi/pdf/10.1177/0146167297234003)).
-The game is inspired by [Love Game for Android](https://github.com/hackathoner/LoveGame)
-by Anuraag Yachamaneni.
 
-> You can find screenshots [here](https://codeberg.org/ichthyosaurus/sailfish-app-assets/src/branch/main/harbour-lovegame/screenshots-store).
+Это проект - софт-форк приложения [36 Questions для SailfishOS](https://codeberg.org/ichthyosaurus/harbour-lovegame/). Изменения из апстрим-репозитория периодически синхронизируются. Порт основан на ревизии апстрим-репозитория из ветки [main](https://github.com/salty-smoothie/aurora-lovegame/tree/main).
 
+Создание игры для Sailfish OS вдохновлено [Love Game для Android](https://github.com/hackathoner/LoveGame)
+от Anuraag Yachamaneni.
 
-## Permissions
+## Разрешения
 
-36 Questions requires the following
-[Sailjail](https://github.com/sailfishos/sailjail-permissions?tab=readme-ov-file#permissions) permissions:
+Для запуска игры требуются следующие разрешения:
 
-- `Audio`: to play notification sounds when timers expire
+- *Воспроизведение и запись аудио*: необходимо для проигрывания звуков завершения таймера. Несмотря на то что это разрешение также предоставляет доступ к записи аудио, "36 Вопрос" никогда не использует ваш микрофон.
 
-The Audio permission confusingly also grants access to the microphone but this
-app never accesses it.
+## Поддержать проект
 
+Если у вас есть какие-то вопросы, предложения или вы столкнулись с проблемой при использовании приложения на ОС Аврора, пожалуйста, оставляйте свои комментарии в [трекере GitHub Issues этого репозитория](https://github.com/salty-smoothie/aurora-lovegame/issues).
 
-## Help and support
+## Сборка и предложение изменений
 
-You are welcome to
-[leave a comment in the forum](https://forum.sailfishos.org/t/apps-by-ichthyosaurus/15753)
-if you have any questions or ideas.
+*Не стесняйтесь сообщать о проблемах и предлагать свои изменения!*
 
+Рекомендуется использовать Aurora SDK MB2 Tools на Linux или внутри WSL. На других конфигурациях возможность сборки проекта не проверяется, но вы всегда можете предложить необходимые исправления для работы в вашем окружении.
 
-## Translations
+1. Клонируйте этот репозиторий
+   ```sh
+   git clone https://github.com/salty-smoothie/aurora-lovegame
+   ```
+2. Далее соберите RPM-пакет и запустите приложение на устройстве стандартным способом.
 
-It would be wonderful if the app could be translated in as many languages as possible!
+Если вы предлагаете изменения - не забудьте упомянуть себя на странице [`AboutPage`](qml/pages/AboutPage.qml)!
 
-[![Translations status](https://hosted.weblate.org/widget/harbour-lovegame/horizontal-auto.svg)](https://hosted.weblate.org/engage/harbour-lovegame/)
+## Финансовая поддержка
 
-Translations are managed using
-[Weblate](https://hosted.weblate.org/projects/harbour-lovegame).
-Please prefer this over pull requests (which are still welcome, of course).
-If you just found a minor problem, you can also
-[open an issue](https://codeberg.org/ichthyosaurus/harbour-lovegame/issues/new).
+Вы можете поддержать разработчика оригинального приложения, [пожертвовав через Liberapay](https://liberapay.com/ichthyosaurus).
 
+Вы можете поддержать разработчика порта для ОС Аврора, [пожертвовав через Boosty](https://boosty.to/smooth-e/donate).
 
-### Manually updating translations
-
-Please prefer using
-[Weblate](https://hosted.weblate.org/projects/harbour-lovegame) over this.
-
-You can follow these steps to manually add or update a translation:
-
-1. If it did not exist before, create a new catalog for your language by copying the
-   base file [translations/harbour-lovegame.ts](translations/harbour-lovegame.ts).
-   Then add the new translation to [harbour-lovegame.pro](harbour-lovegame.pro).
-2. Add yourself to the list of translators in [TRANSLATORS.json](TRANSLATORS.json),
-   in the section `extra`.
-3. (optional) Translate the app's name in [harbour-lovegame.desktop](harbour-lovegame.desktop)
-   if there is a (short) native term for it in your language.
-
-See [the Qt documentation](https://doc.qt.io/qt-5/qml-qtqml-date.html#details) for
-details on how to translate date formats to your *local* format.
-
-
-## Building and contributing
-
-*Bug reports, and contributions for translations, bug fixes, or new features are always welcome!*
-
-1. Clone the repository by running `git clone --recursive https://codeberg.org/ichthyosaurus/harbour-lovegame`
-2. Open `harbour-lovegame.pro` in QtCreator for Sailfish ([SailfishOS SDK](https://docs.sailfishos.org/Tools/Sailfish_SDK/))
-3. To run on emulator, select the `i486` target and press the run button
-4. To build for the device, select the `aarch64` or `armv7hl` target and click “deploy all”;
-   the RPM packages will be in the `RPMS` folder
-
-If you contribute, please do not forget to add yourself to the list of
-contributors in [qml/pages/AboutPage.qml](qml/pages/AboutPage.qml)!
-
-
-## Donations
-
-<a href="https://liberapay.com/ichthyosaurus/donate">
-  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
-</a>
-
-I am always happy if you buy me a cup of coffee through
-[Liberapay](https://liberapay.com/ichthyosaurus)
-if you want to support my work.
-
-Of course it would be much appreciated as well if you support this project by
-contributing to translations or code! See above how you can contribute 🎕.
-
-Please consider also supporting the
-[SailfishOS Community Team](https://liberapay.com/SailfishOScommunityTeam)
-on Liberapay to reach more developers.
-
-
-## Anti-AI policy <a id='ai-policy'></a>
-
-> [!IMPORTANT]
-> - LLM/“AI”-generated contributions are forbidden.
-> - Using this project in whole or in part for AI training or data mining is likewise forbidden.
-
-Please be transparent, respect the Free Software community, and adhere to the
-licenses. This is a welcoming place for human creativity and diversity, but
-LLM/“AI”-generated slop is going against these values.
-
-Apart from all the
-[ethical](https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/),
-[moral](https://www.theguardian.com/technology/2026/mar/17/x-csam-child-abuse-material-grok-australian-online-safety-regulator-ntwnfb),
-[legal](https://en.wikipedia.org/wiki/Artificial_intelligence_and_copyright#Litigation),
-[environmental](https://www.theguardian.com/environment/2025/apr/09/big-tech-datacentres-water),
-[societal](https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts),
-[social](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine),
-[political](https://www.theguardian.com/technology/2025/nov/17/grokipedia-elon-musk-far-right-racist),
-[technical](https://codeberg.org/small-hack/open-slopware#poor-code-quality),
-and overall [human](https://www.hrw.org/news/2024/09/10/questions-and-answers-israeli-militarys-use-digital-tools-gaza),
-reasons against LLMs/“AI”, I also simply don't have any spare time to review
-generated contributions.
-
-See also [this list](https://codeberg.org/small-hack/open-slopware#why-not-llms)
-for more reasons against supporting “AI”.
-
+Конечно же, мы будем очень рады, если вы поможете проекту, предложив свои правки или улучшения. Прочтите секцию выше, чтобы узнать больше ✨
 
 ## License
 
-> Copyright (C) 2022-2026  Mirian Margiani
+- Copyright (C) 2022-2026 Mirian Margiani
+- Copyright (C) 2026 Smooth-E
 
-36 Questions is Free Software released under the terms of the
-[GNU Affero General Public License v3 (or later)](https://spdx.org/licenses/AGPL-3.0-or-later.html).
-The source code is available [on Codeberg](https://codeberg.org/ichthyosaurus/harbour-lovegame).
-All documentation is released under the terms of the
+"36 Вопросов" - свободное программное обеспечение, которое распространяется под лицензией
+[GNU General Public License v3 (or later)](https://spdx.org/licenses/GPL-3.0-or-later.html).
+Исходный код доступен [на Github](https://github.com/salty-smoothie/aurora-lovegame).
+Вся сопутствующая документация распространяется под лицензией 
 [GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
 
-36 Questions and related materials must not be used for AI training and/or data mining.
-
-This project follows the [REUSE specification](https://api.reuse.software/info/codeberg.org/ichthyosaurus/harbour-lovegame).
+Материалы в этом репозитории запрещено использовать в разработке технологий ИИ и LLM.
