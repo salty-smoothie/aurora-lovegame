@@ -623,13 +623,6 @@
     </message>
 </context>
 <context>
-    <name>harbour-lovegame</name>
-    <message>
-        <source></source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>moe.smoothie.lovegame</name>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="36"/>
@@ -640,204 +633,204 @@
         <location filename="../qml/moe.smoothie.lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished">I.</translation>
+        <translation>I.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished">Если бы у вас была возможность выбрать любого человека в мире, кого бы вы пригласили на ужин?</translation>
+        <translation>Если бы у вас была возможность выбрать любого человека в мире, кого бы вы пригласили на ужин?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished">Хотели бы вы быть популярным? В какой сфере?</translation>
+        <translation>Хотели бы вы быть популярным? В какой сфере?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished">Прежде чем совершить звонок, вы когда-нибудь репетируете то, что собираетесь сказать? Почему?</translation>
+        <translation>Прежде чем совершить звонок, вы когда-нибудь репетируете то, что собираетесь сказать? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished">Что бы вы назвали “идеальным” днем для себя?</translation>
+        <translation>Что бы вы назвали “идеальным” днем для себя?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation type="unfinished">Когда в последний раз вы пели сами себе? А кому-либо другому?</translation>
+        <translation>Когда в последний раз вы пели сами себе? А кому-либо другому?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished">Если бы вы могли прожить до 90 лет и сохранить либо разум, либо тело 30-летнего человека в течение последних 60 лет свои жизни, что из этих двух вы бы выбрали?</translation>
+        <translation>Если бы вы могли прожить до 90 лет и сохранить либо разум, либо тело 30-летнего человека в течение последних 60 лет свои жизни, что из этих двух вы бы выбрали?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished">Догадываетесь ли вы втайне, как вы умрёте?</translation>
+        <translation>Догадываетесь ли вы втайне, как вы умрёте?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished">Назовите три общие черты, которые есть и у вас, и у вашего партнёра.</translation>
+        <translation>Назовите три общие черты, которые есть и у вас, и у вашего партнёра.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished">За что в вашей жизни вы чувствуете наибольшую благодарность?</translation>
+        <translation>За что в вашей жизни вы чувствуете наибольшую благодарность?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished">Если бы вы могли поменять что-нибудь в том, как вас вырастили, что бы это было?</translation>
+        <translation>Если бы вы могли поменять что-нибудь в том, как вас вырастили, что бы это было?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished">За 4 минуты, расскажите своему собеседнику историю вашей жизни, упоминая столько деталей, сколько возможно.</translation>
+        <translation>За 4 минуты, расскажите своему собеседнику историю вашей жизни, упоминая столько деталей, сколько возможно.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished">Если бы вы проснулись завтра с новым качеством или способностью, что бы это было?</translation>
+        <translation>Если бы вы проснулись завтра с новым качеством или способностью, что бы это было?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished">II.</translation>
+        <translation>II.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished">Если бы хрустальный шар мог рассказать вам всю правду о вас, вашей жизни, будущем или о чём-нибудь другом, что именно вы бы хотели узнать?</translation>
+        <translation>Если бы хрустальный шар мог рассказать вам всю правду о вас, вашей жизни, будущем или о чём-нибудь другом, что именно вы бы хотели узнать?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished">Есть ли что-то, что вы мечтаете сделать уже долгое время? Почему вы это не сделали?</translation>
+        <translation>Есть ли что-то, что вы мечтаете сделать уже долгое время? Почему вы это не сделали?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="60"/>
         <source>What is the greatest accomplishment of your life?</source>
-        <translation type="unfinished">Что является самым большим достижением в вашей жизни?</translation>
+        <translation>Что является самым большим достижением в вашей жизни?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished">Что вы больше всего цените в дружбе?</translation>
+        <translation>Что вы больше всего цените в дружбе?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished">Какое ваше самое дорогое воспоминание?</translation>
+        <translation>Какое ваше самое дорогое воспоминание?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished">Какое ваше самое ужасное воспоминание?</translation>
+        <translation>Какое ваше самое ужасное воспоминание?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished">Если бы вы знали, что через год внезапно умрёте, поменяли бы вы что-нибудь в своём образе жизни? Почему?</translation>
+        <translation>Если бы вы знали, что через год внезапно умрёте, поменяли бы вы что-нибудь в своём образе жизни? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation type="unfinished">Что для вас значит дружба?</translation>
+        <translation>Что для вас значит дружба?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation type="unfinished">Какую роль играют любовь и привязанность в вашей жизни?</translation>
+        <translation>Какую роль играют любовь и привязанность в вашей жизни?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished">Поочередно делитесь тем, что вы считаете положительной чертой вашего партнера. Поделитесь в общей сложности пятью пунктами.</translation>
+        <translation>Поочередно делитесь тем, что вы считаете положительной чертой вашего партнера. Поделитесь в общей сложности пятью пунктами.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished">Насколько близка и сердечна ваша семья? Чувствуете ли вы, что ваше детство было счастливее, чем у большинства других людей?</translation>
+        <translation>Насколько близка и сердечна ваша семья? Чувствуете ли вы, что ваше детство было счастливее, чем у большинства других людей?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished">Что вы чувствуете насчёт ваших отношений с матерью?</translation>
+        <translation>Что вы чувствуете насчёт ваших отношений с матерью?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="70"/>
         <source>III.</source>
         <comment>as in &quot;3rd chapter&quot;</comment>
-        <translation type="unfinished">III.</translation>
+        <translation>III.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished">Сделайте три правдивых “мы”-высказываний каждый. Для примера, “Мы оба в этой комнате чувствуем ...”</translation>
+        <translation>Сделайте три правдивых “мы”-высказываний каждый. Для примера, “Мы оба в этой комнате чувствуем ...”</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation type="unfinished">Закончите предложение: “Я бы хотел, чтобы у меня был кто-то, с кем бы я мог поделиться ...”</translation>
+        <translation>Закончите предложение: “Я бы хотел, чтобы у меня был кто-то, с кем бы я мог поделиться ...”</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished">Если вы собираетесь стать близким друзьями с собеседником, пожалуйста, поделитесь тем, что было бы важно знать ему или ей.</translation>
+        <translation>Если вы собираетесь стать близким друзьями с собеседником, пожалуйста, поделитесь тем, что было бы важно знать ему или ей.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished">Расскажите собеседнику то, что вам уже нравится в нём.</translation>
+        <translation>Расскажите собеседнику то, что вам уже нравится в нём.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished">Поделитесь с собеседником неловким моментом в вашей жизни.</translation>
+        <translation>Поделитесь с собеседником неловким моментом в вашей жизни.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished">Когда вы в последний раз плакали в присутствии другого человека? В одиночестве?</translation>
+        <translation>Когда вы в последний раз плакали в присутствии другого человека? В одиночестве?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished">Расскажите собеседнику, что вам в нём нравится; будьте предельно честны в этот раз, говорите только то, что вы бы, возможно, не сказали человеку, с которым только что познакомились.</translation>
+        <translation>Расскажите собеседнику, что вам в нём нравится; будьте предельно честны в этот раз, говорите только то, что вы бы, возможно, не сказали человеку, с которым только что познакомились.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished">Что, если уж на то пошло, слишком серьёзно, чтобы над этим шутить?</translation>
+        <translation>Что, если уж на то пошло, слишком серьёзно, чтобы над этим шутить?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished">Если бы вы умерли этим вечером без возможности контактировать с кем-либо, о чём невысказанном вы бы жалели больше всего? Почему вы ещё не рассказали об этом?</translation>
+        <translation>Если бы вы умерли этим вечером без возможности контактировать с кем-либо, о чём невысказанном вы бы жалели больше всего? Почему вы ещё не рассказали об этом?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished">В вашем доме со всем, что вы имеете, начался пожар. После того, как вы спасли своих любимых и питомцев, у вас ещё есть время, чтобы безопасно сделать последний рывок и спасти любой один предмет. Что бы это было? Почему?</translation>
+        <translation>В вашем доме со всем, что вы имеете, начался пожар. После того, как вы спасли своих любимых и питомцев, у вас ещё есть время, чтобы безопасно сделать последний рывок и спасти любой один предмет. Что бы это было? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished">Из всех членов вашей семьи, чью смерть вы бы перенесли тяжелее всего? Почему?</translation>
+        <translation>Из всех членов вашей семьи, чью смерть вы бы перенесли тяжелее всего? Почему?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished">Поделитесь личной проблемой и спросите у вашего партнёра, как он или она с ней бы справились. Также попросите его или её рассказать вам о том, как, по их мнению, вы относитесь к выбранной вами проблеме.</translation>
+        <translation>Поделитесь личной проблемой и спросите у вашего партнёра, как он или она с ней бы справились. Также попросите его или её рассказать вам о том, как, по их мнению, вы относитесь к выбранной вами проблеме.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation type="unfinished">Всё?&lt;br&gt;&lt;br&gt;Теперь смотрите в глаза вашего партнёра молча четыре минуты.</translation>
+        <translation>Всё?&lt;br&gt;&lt;br&gt;Теперь смотрите в глаза вашего партнёра молча четыре минуты.</translation>
     </message>
 </context>
 </TS>

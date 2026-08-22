@@ -6,27 +6,27 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="38"/>
         <source>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</source>
-        <translation type="unfinished"></translation>
+        <translation>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="43"/>
         <source>App dev&apos;s Liberapay</source>
-        <translation type="unfinished"></translation>
+        <translation>App dev&apos;s Liberapay</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="47"/>
         <source>Port maintainer&apos;s Boosty</source>
-        <translation type="unfinished"></translation>
+        <translation>Port maintainer&apos;s Boosty</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>A game about bonding.</source>
-        <translation type="unfinished">بازی درمورد bonding</translation>
+        <translation>A game about bonding.</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="61"/>
         <source>Text of the 36 questions</source>
-        <translation>متن 36سوال</translation>
+        <translation>Text of the 36 questions</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="76"/>
@@ -67,7 +67,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="99"/>
         <source>Aurora OS Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Aurora OS Port</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="103"/>
@@ -87,7 +87,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Uyghur</source>
-        <translation type="unfinished"></translation>
+        <translation>Uyghur</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="124"/>
@@ -152,7 +152,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>Persian</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="222"/>
@@ -162,7 +162,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Malay</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="234"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="346"/>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Arabic</translation>
     </message>
     <message>
         <location filename="../qml/pages/AboutPage.qml" line="364"/>
@@ -322,12 +322,12 @@
     <message>
         <location filename="../qml/MySupportDialog.qml" line="30"/>
         <source>Support port maintainer</source>
-        <translation type="unfinished"></translation>
+        <translation>Support port maintainer</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="31"/>
         <source>Support Aurora OS port maintainer by donating through Boosty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Support Aurora OS port maintainer by donating through Boosty.</translation>
     </message>
     <message>
         <location filename="../qml/MySupportDialog.qml" line="37"/>
@@ -621,222 +621,214 @@
     </message>
 </context>
 <context>
-    <name>harbour-lovegame</name>
-    <message>
-        <location filename="../qml/harbour-lovegame.qml" line="34"/>
-        <source></source>
-        <translation></translation>
-    </message>
-</context>
-<context>
     <name>moe.smoothie.lovegame</name>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation type="unfinished">36 Questions</translation>
+        <translation>36 Questions</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="44"/>
         <source>I.</source>
         <comment>as in &quot;1st chapter&quot;</comment>
-        <translation type="unfinished">I.</translation>
+        <translation>I.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="45"/>
         <source>Given the choice of anyone in the world, whom would you want as a dinner guest?</source>
-        <translation type="unfinished">Given the choice of anyone in the world, whom would you want as a dinner guest?</translation>
+        <translation>Given the choice of anyone in the world, whom would you want as a dinner guest?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="46"/>
         <source>Would you like to be famous? In what way?</source>
-        <translation type="unfinished">Would you like to be famous? In what way?</translation>
+        <translation>Would you like to be famous? In what way?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="47"/>
         <source>Before making a telephone call, do you ever rehearse what you are going to say? Why?</source>
-        <translation type="unfinished">Before making a telephone call, do you ever rehearse what you are going to say? Why?</translation>
+        <translation>Before making a telephone call, do you ever rehearse what you are going to say? Why?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="48"/>
         <source>What would constitute a “perfect” day for you?</source>
-        <translation type="unfinished">What would constitute a “perfect” day for you?</translation>
+        <translation>What would constitute a “perfect” day for you?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="49"/>
         <source>When did you last sing to yourself? To someone else?</source>
-        <translation type="unfinished">When did you last sing to yourself? To someone else?</translation>
+        <translation>When did you last sing to yourself? To someone else?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="50"/>
         <source>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</source>
-        <translation type="unfinished">If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</translation>
+        <translation>If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="51"/>
         <source>Do you have a secret hunch about how you will die?</source>
-        <translation type="unfinished">Do you have a secret hunch about how you will die?</translation>
+        <translation>Do you have a secret hunch about how you will die?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="52"/>
         <source>Name three things you and your partner appear to have in common.</source>
-        <translation type="unfinished">Name three things you and your partner appear to have in common.</translation>
+        <translation>Name three things you and your partner appear to have in common.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="53"/>
         <source>For what in your life do you feel most grateful?</source>
-        <translation type="unfinished">For what in your life do you feel most grateful?</translation>
+        <translation>For what in your life do you feel most grateful?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="54"/>
         <source>If you could change anything about the way you were raised, what would it be?</source>
-        <translation type="unfinished">If you could change anything about the way you were raised, what would it be?</translation>
+        <translation>If you could change anything about the way you were raised, what would it be?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="55"/>
         <source>Take four minutes and tell your partner your life story in as much detail as possible.</source>
-        <translation type="unfinished">Take four minutes and tell your partner your life story in as much detail as possible.</translation>
+        <translation>Take four minutes and tell your partner your life story in as much detail as possible.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="56"/>
         <source>If you could wake up tomorrow having gained any one quality or ability, what would it be?</source>
-        <translation type="unfinished">If you could wake up tomorrow having gained any one quality or ability, what would it be?</translation>
+        <translation>If you could wake up tomorrow having gained any one quality or ability, what would it be?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="57"/>
         <source>II.</source>
         <comment>as in &quot;2nd chapter&quot;</comment>
-        <translation type="unfinished">II.</translation>
+        <translation>II.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="58"/>
         <source>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</source>
-        <translation type="unfinished">If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</translation>
+        <translation>If a crystal ball could tell you the truth about yourself, your life, the future or anything else, what would you want to know?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="59"/>
         <source>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</source>
-        <translation type="unfinished">Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</translation>
+        <translation>Is there something that you’ve dreamed of doing for a long time? Why haven’t you done it?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="60"/>
         <source>What is the greatest accomplishment of your life?</source>
-        <translation type="unfinished">What is the greatest accomplishment of your life?</translation>
+        <translation>What is the greatest accomplishment of your life?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="61"/>
         <source>What do you value most in a friendship?</source>
-        <translation type="unfinished">What do you value most in a friendship?</translation>
+        <translation>What do you value most in a friendship?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="62"/>
         <source>What is your most treasured memory?</source>
-        <translation type="unfinished">What is your most treasured memory?</translation>
+        <translation>What is your most treasured memory?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="63"/>
         <source>What is your most terrible memory?</source>
-        <translation type="unfinished">What is your most terrible memory?</translation>
+        <translation>What is your most terrible memory?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="64"/>
         <source>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</source>
-        <translation type="unfinished">If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</translation>
+        <translation>If you knew that in one year you would die suddenly, would you change anything about the way you are now living? Why?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="65"/>
         <source>What does friendship mean to you?</source>
-        <translation type="unfinished">What does friendship mean to you?</translation>
+        <translation>What does friendship mean to you?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="66"/>
         <source>What roles do love and affection play in your life?</source>
-        <translation type="unfinished">What roles do love and affection play in your life?</translation>
+        <translation>What roles do love and affection play in your life?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="67"/>
         <source>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</source>
-        <translation type="unfinished">Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</translation>
+        <translation>Alternate sharing something you consider a positive characteristic of your partner. Share a total of five items.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="68"/>
         <source>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</source>
-        <translation type="unfinished">How close and warm is your family? Do you feel your childhood was happier than most other people’s?</translation>
+        <translation>How close and warm is your family? Do you feel your childhood was happier than most other people’s?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="69"/>
         <source>How do you feel about your relationship with your mother?</source>
-        <translation type="unfinished">How do you feel about your relationship with your mother?</translation>
+        <translation>How do you feel about your relationship with your mother?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="70"/>
         <source>III.</source>
         <comment>as in &quot;3rd chapter&quot;</comment>
-        <translation type="unfinished">III.</translation>
+        <translation>III.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="71"/>
         <source>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</source>
-        <translation type="unfinished">Make three true “we” statements each. For instance, “We are both in this room feeling ...”</translation>
+        <translation>Make three true “we” statements each. For instance, “We are both in this room feeling ...”</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="72"/>
         <source>Complete this sentence: “I wish I had someone with whom I could share ...”</source>
-        <translation type="unfinished">Complete this sentence: “I wish I had someone with whom I could share ...”</translation>
+        <translation>Complete this sentence: “I wish I had someone with whom I could share ...”</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="73"/>
         <source>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</source>
-        <translation type="unfinished">If you were going to become a close friend with your partner, please share what would be important for him or her to know.</translation>
+        <translation>If you were going to become a close friend with your partner, please share what would be important for him or her to know.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="74"/>
         <source>Tell your partner something that you like about them already.</source>
-        <translation type="unfinished">Tell your partner something that you like about them already.</translation>
+        <translation>Tell your partner something that you like about them already.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="75"/>
         <source>Share with your partner an embarrassing moment in your life.</source>
-        <translation type="unfinished">Share with your partner an embarrassing moment in your life.</translation>
+        <translation>Share with your partner an embarrassing moment in your life.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="76"/>
         <source>When did you last cry in front of another person? By yourself?</source>
-        <translation type="unfinished">When did you last cry in front of another person? By yourself?</translation>
+        <translation>When did you last cry in front of another person? By yourself?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="77"/>
         <source>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</source>
-        <translation type="unfinished">Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</translation>
+        <translation>Tell your partner what you like about them; be very honest this time, saying things that you might not say to someone you’ve just met.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="78"/>
         <source>What, if anything, is too serious to be joked about?</source>
-        <translation type="unfinished">What, if anything, is too serious to be joked about?</translation>
+        <translation>What, if anything, is too serious to be joked about?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="79"/>
         <source>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</source>
-        <translation type="unfinished">If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</translation>
+        <translation>If you were to die this evening with no opportunity to communicate with anyone, what would you most regret not having told someone? Why haven’t you told them yet?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="80"/>
         <source>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</source>
-        <translation type="unfinished">Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</translation>
+        <translation>Your house, containing everything you own, catches fire. After saving your loved ones and pets, you have time to safely make a final dash to save any one item. What would it be? Why?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="81"/>
         <source>Of all the people in your family, whose death would you find most disturbing? Why?</source>
-        <translation type="unfinished">Of all the people in your family, whose death would you find most disturbing? Why?</translation>
+        <translation>Of all the people in your family, whose death would you find most disturbing? Why?</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="82"/>
         <source>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</source>
-        <translation type="unfinished">Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</translation>
+        <translation>Share a personal problem and ask your partner’s advice on how he or she might handle it. Also, ask your partner to reflect back to you how you seem to be feeling about the problem you have chosen.</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="84"/>
         <source>Done?&lt;br&gt;&lt;br&gt;Now look into the eyes of your partner silently for four minutes.</source>
-        <translation type="unfinished">Done?&lt;br&gt;&lt;br&gt;Now look into your partner&apos;s eyes silently for four minutes.</translation>
+        <translation>Done?&lt;br&gt;&lt;br&gt;Now look into your partner&apos;s eyes silently for four minutes.</translation>
     </message>
 </context>
 </TS>
