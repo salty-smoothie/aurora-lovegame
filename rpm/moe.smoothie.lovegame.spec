@@ -9,7 +9,7 @@ Name:       moe.smoothie.lovegame
 # << macros
 %define __provides_exclude_from ^%{_datadir}/.*$
 
-Summary:    36 вопросов
+Summary:    36 Вопросов
 Version:    1.2.2.1
 Release:    1
 Group:      Amusements/Games
