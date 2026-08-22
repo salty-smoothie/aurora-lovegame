@@ -4,218 +4,238 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="65"/>
+        <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
         <translation>Благодарности</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="45"/>
+        <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>A game about bonding.</source>
         <translation>Игра про налаживание связей.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="72"/>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
         <translation>Фон</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="77"/>
+        <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Article (PDF)</source>
         <translation>Статья (PDF)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="66"/>
+        <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
         <translation>Все вопросы и инструкции были скопированы из Aron et al. (1997: 374f) и были лишь немного адаптированы для этой игры.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="69"/>
+        <location filename="../qml/pages/AboutPage.qml" line="38"/>
+        <source>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</source>
+        <translation>Если вы нашли данное приложение полезным, поддержите автора оригинала или разработчика порта под ОС Аврора монетой.</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="43"/>
+        <source>App dev&apos;s Liberapay</source>
+        <translation>Liberapay разработчика</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="47"/>
+        <source>Port maintainer&apos;s Boosty</source>
+        <translation>Boosty автора порта</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
         <translation>Это приложение было создано по образу Love Game для Android от Anuraag Yachamaneni.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="74"/>
+        <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
         <translation>Эта игра основана на статье Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="85"/>
+        <location filename="../qml/pages/AboutPage.qml" line="96"/>
         <source>Development</source>
         <translation>Разработка</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="88"/>
+        <location filename="../qml/pages/AboutPage.qml" line="99"/>
+        <source>Aurora OS Port</source>
+        <translation>Порт для ОС Аврора</translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <source>Programming</source>
         <translation>Программирование</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="92"/>
+        <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Icon Design</source>
         <translation>Дизайн иконок</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="100"/>
+        <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Translations</source>
         <translation>Перевод</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="103"/>
+        <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Uyghur</source>
         <translation>Уйгур</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="109"/>
+        <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Ukrainian</source>
         <translation>Украинский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="115"/>
+        <location filename="../qml/pages/AboutPage.qml" line="130"/>
         <source>Turkish</source>
         <translation>Турецкий</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <location filename="../qml/pages/AboutPage.qml" line="139"/>
         <source>Tamil</source>
         <translation>Тамильский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="130"/>
+        <location filename="../qml/pages/AboutPage.qml" line="145"/>
         <source>Swedish</source>
         <translation>Шведский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="137"/>
+        <location filename="../qml/pages/AboutPage.qml" line="152"/>
         <source>Spanish</source>
         <translation>Испанский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="144"/>
+        <location filename="../qml/pages/AboutPage.qml" line="159"/>
         <source>Slovak</source>
         <translation>Словацкий</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Serbian</source>
         <translation>Сербский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="173"/>
         <source>Russian</source>
         <translation>Русский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="170"/>
+        <location filename="../qml/pages/AboutPage.qml" line="185"/>
         <source>Romanian</source>
         <translation>Румынский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="176"/>
+        <location filename="../qml/pages/AboutPage.qml" line="191"/>
         <source>Portuguese (Brazil)</source>
         <translation>Португальский (Бразилия)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="183"/>
+        <location filename="../qml/pages/AboutPage.qml" line="198"/>
         <source>Portuguese</source>
         <translation>Португальский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="194"/>
+        <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Polish</source>
         <translation>Польский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="200"/>
+        <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Persian</source>
         <translation>Персидский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="207"/>
+        <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Norwegian Bokmål</source>
         <translation>Норвежский букмол</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="213"/>
+        <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Malay</source>
         <translation>Малайский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="219"/>
+        <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>Lithuanian</source>
         <translation>Литовский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="225"/>
+        <location filename="../qml/pages/AboutPage.qml" line="240"/>
         <source>Italian</source>
         <translation>Итальянский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="234"/>
+        <location filename="../qml/pages/AboutPage.qml" line="249"/>
         <source>Indonesian</source>
         <translation>Индонезийский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="243"/>
+        <location filename="../qml/pages/AboutPage.qml" line="258"/>
         <source>Hungarian</source>
         <translation>Венгерский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="250"/>
+        <location filename="../qml/pages/AboutPage.qml" line="265"/>
         <source>Greek</source>
         <translation>Греческий</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="256"/>
+        <location filename="../qml/pages/AboutPage.qml" line="271"/>
         <source>German</source>
         <translation>Немецкий</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="266"/>
+        <location filename="../qml/pages/AboutPage.qml" line="281"/>
         <source>French</source>
         <translation>Французский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="275"/>
+        <location filename="../qml/pages/AboutPage.qml" line="290"/>
         <source>Finnish</source>
         <translation>Финский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="282"/>
+        <location filename="../qml/pages/AboutPage.qml" line="297"/>
         <source>Estonian</source>
         <translation>Эстонский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="288"/>
+        <location filename="../qml/pages/AboutPage.qml" line="303"/>
         <source>English</source>
         <translation>Английский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="300"/>
+        <location filename="../qml/pages/AboutPage.qml" line="315"/>
         <source>Dutch</source>
         <translation>Голландский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="308"/>
+        <location filename="../qml/pages/AboutPage.qml" line="323"/>
         <source>Czech</source>
         <translation>Чешский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="315"/>
+        <location filename="../qml/pages/AboutPage.qml" line="330"/>
         <source>Chinese</source>
         <translation>Китайский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="331"/>
+        <location filename="../qml/pages/AboutPage.qml" line="346"/>
         <source>Arabic</source>
         <translation>Арабский</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="349"/>
+        <location filename="../qml/pages/AboutPage.qml" line="364"/>
         <source>Allow skipping timers</source>
         <translation>Пропуск таймеров</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="50"/>
+        <location filename="../qml/pages/AboutPage.qml" line="61"/>
         <source>Text of the 36 questions</source>
         <translation>Текст 36 вопросов</translation>
     </message>
@@ -290,57 +310,57 @@
 <context>
     <name>MySupportDialog</name>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="13"/>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on %1</source>
         <translation>Пожертвовать на %1</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>Оплатите стоимость чашки кофе, кусочка пиццы или билета в театр.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="21"/>
-        <source>Translate on %1</source>
-        <translation>Перевести на Веблейт</translation>
+        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <source>Support port maintainer</source>
+        <translation>Поддержать автора порта</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
-        <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Помогите с переводом этого приложения на как можно больше языков.</translation>
+        <location filename="../qml/MySupportDialog.qml" line="31"/>
+        <source>Support Aurora OS port maintainer by donating through Boosty.</source>
+        <translation>Поддержите разработчика порта для ОС Аврора пожертвованием на Boosty.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="29"/>
+        <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Develop on %1</source>
         <translation>Разрабатывать на %1</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <location filename="../qml/MySupportDialog.qml" line="38"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>Поддержка в разработке и упаковке, написании кодов, или важные замечания об ошибках.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="36"/>
+        <location filename="../qml/MySupportDialog.qml" line="44"/>
         <source>Why should you care?</source>
         <translation>Почему вас это должно волновать?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="39"/>
+        <location filename="../qml/MySupportDialog.qml" line="47"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>Этот проект создан одним разработчиком с любовью и увлечением в его свободное время и предоставляется вам бесплатно.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="45"/>
+        <location filename="../qml/MySupportDialog.qml" line="53"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>Я разрабатываю бесплатное программное обеспечение, потому что убежден, что это этично, и это веселое хобби. Однако разработка программного обеспечения требует много времени и усилий. Поскольку Sailfish и жизнь в целом стоят денег, мне нужна ваша поддержка, чтобы иметь возможность тратить время на такие неоплачиваемые проекты, как этот.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="55"/>
+        <location filename="../qml/MySupportDialog.qml" line="63"/>
         <source>Why donate?</source>
         <translation>Для чего нужно пожертвование?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="58"/>
+        <location filename="../qml/MySupportDialog.qml" line="66"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>Если вы можете себе это позволить, пожертвование — это самый простой способ гарантировать, что я смогу продолжать работать над приложениями для Sailfish. Любая сумма будет оценена по достоинству, будь то чашка кофе, кусок пиццы или что-то еще.</translation>
     </message>
@@ -614,7 +634,7 @@
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="36"/>
         <source>36 Questions</source>
-        <translation type="unfinished">36 Вопросов</translation>
+        <translation>36 Вопросов</translation>
     </message>
     <message>
         <location filename="../qml/moe.smoothie.lovegame.qml" line="44"/>

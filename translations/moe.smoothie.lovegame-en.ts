@@ -4,218 +4,238 @@
 <context>
     <name>AboutPage</name>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="45"/>
+        <location filename="../qml/pages/AboutPage.qml" line="38"/>
+        <source>If you found this app helpful, feel welcome to support the original developer or the Aurora OS port maintainer by donating.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="43"/>
+        <source>App dev&apos;s Liberapay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="47"/>
+        <source>Port maintainer&apos;s Boosty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="52"/>
         <source>A game about bonding.</source>
         <translation type="unfinished">بازی درمورد bonding</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="50"/>
+        <location filename="../qml/pages/AboutPage.qml" line="61"/>
         <source>Text of the 36 questions</source>
         <translation>متن 36سوال</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="65"/>
+        <location filename="../qml/pages/AboutPage.qml" line="76"/>
         <source>Acknowledgments</source>
         <translation>Acknowledgments</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="66"/>
+        <location filename="../qml/pages/AboutPage.qml" line="77"/>
         <source>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</source>
         <translation>All questions and instructions are copied from Aron et al. (1997: 374f) and have only been slightly adapted for this game.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="69"/>
+        <location filename="../qml/pages/AboutPage.qml" line="80"/>
         <source>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</source>
         <translation>This app is modelled after Love Game for Android by Anuraag Yachamaneni.</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="72"/>
+        <location filename="../qml/pages/AboutPage.qml" line="83"/>
         <source>Background</source>
         <comment>as in &apos;background information&apos;</comment>
         <translation>Background</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="74"/>
+        <location filename="../qml/pages/AboutPage.qml" line="85"/>
         <source>The game follows Aron et al. (1997, PSPB 23/4).</source>
         <translation>The game follows Aron et al. (1997, PSPB 23/4).</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="77"/>
+        <location filename="../qml/pages/AboutPage.qml" line="88"/>
         <source>Article (PDF)</source>
         <translation>Article (PDF)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="85"/>
+        <location filename="../qml/pages/AboutPage.qml" line="96"/>
         <source>Development</source>
         <translation>Development</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="88"/>
+        <location filename="../qml/pages/AboutPage.qml" line="99"/>
+        <source>Aurora OS Port</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../qml/pages/AboutPage.qml" line="103"/>
         <source>Programming</source>
         <translation>Programming</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="92"/>
+        <location filename="../qml/pages/AboutPage.qml" line="107"/>
         <source>Icon Design</source>
         <translation>Icon Design</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="100"/>
+        <location filename="../qml/pages/AboutPage.qml" line="115"/>
         <source>Translations</source>
         <translation>Translations</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="103"/>
+        <location filename="../qml/pages/AboutPage.qml" line="118"/>
         <source>Uyghur</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="109"/>
+        <location filename="../qml/pages/AboutPage.qml" line="124"/>
         <source>Ukrainian</source>
         <translation>Ukrainian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="115"/>
+        <location filename="../qml/pages/AboutPage.qml" line="130"/>
         <source>Turkish</source>
         <translation>Turkish</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="124"/>
+        <location filename="../qml/pages/AboutPage.qml" line="139"/>
         <source>Tamil</source>
         <translation>Tamil</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="130"/>
+        <location filename="../qml/pages/AboutPage.qml" line="145"/>
         <source>Swedish</source>
         <translation>Swedish</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="137"/>
+        <location filename="../qml/pages/AboutPage.qml" line="152"/>
         <source>Spanish</source>
         <translation>Spanish</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="144"/>
+        <location filename="../qml/pages/AboutPage.qml" line="159"/>
         <source>Slovak</source>
         <translation>Slovak</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="152"/>
+        <location filename="../qml/pages/AboutPage.qml" line="167"/>
         <source>Serbian</source>
         <translation>Serbian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="158"/>
+        <location filename="../qml/pages/AboutPage.qml" line="173"/>
         <source>Russian</source>
         <translation>Russian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="170"/>
+        <location filename="../qml/pages/AboutPage.qml" line="185"/>
         <source>Romanian</source>
         <translation>Romanian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="176"/>
+        <location filename="../qml/pages/AboutPage.qml" line="191"/>
         <source>Portuguese (Brazil)</source>
         <translation>Portuguese (Brazil)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="183"/>
+        <location filename="../qml/pages/AboutPage.qml" line="198"/>
         <source>Portuguese</source>
         <translation>Portuguese</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="194"/>
+        <location filename="../qml/pages/AboutPage.qml" line="209"/>
         <source>Polish</source>
         <translation>Polish</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="200"/>
+        <location filename="../qml/pages/AboutPage.qml" line="215"/>
         <source>Persian</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="207"/>
+        <location filename="../qml/pages/AboutPage.qml" line="222"/>
         <source>Norwegian Bokmål</source>
         <translation>Norwegian (Bokmål)</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="213"/>
+        <location filename="../qml/pages/AboutPage.qml" line="228"/>
         <source>Malay</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="219"/>
+        <location filename="../qml/pages/AboutPage.qml" line="234"/>
         <source>Lithuanian</source>
         <translation>Lithuanian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="225"/>
+        <location filename="../qml/pages/AboutPage.qml" line="240"/>
         <source>Italian</source>
         <translation>Italian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="234"/>
+        <location filename="../qml/pages/AboutPage.qml" line="249"/>
         <source>Indonesian</source>
         <translation>Indonesian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="243"/>
+        <location filename="../qml/pages/AboutPage.qml" line="258"/>
         <source>Hungarian</source>
         <translation>Hungarian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="250"/>
+        <location filename="../qml/pages/AboutPage.qml" line="265"/>
         <source>Greek</source>
         <translation>Greek</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="256"/>
+        <location filename="../qml/pages/AboutPage.qml" line="271"/>
         <source>German</source>
         <translation>German</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="266"/>
+        <location filename="../qml/pages/AboutPage.qml" line="281"/>
         <source>French</source>
         <translation>French</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="275"/>
+        <location filename="../qml/pages/AboutPage.qml" line="290"/>
         <source>Finnish</source>
         <translation>Finnish</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="282"/>
+        <location filename="../qml/pages/AboutPage.qml" line="297"/>
         <source>Estonian</source>
         <translation>Estonian</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="288"/>
+        <location filename="../qml/pages/AboutPage.qml" line="303"/>
         <source>English</source>
         <translation>English</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="300"/>
+        <location filename="../qml/pages/AboutPage.qml" line="315"/>
         <source>Dutch</source>
         <translation>Dutch</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="308"/>
+        <location filename="../qml/pages/AboutPage.qml" line="323"/>
         <source>Czech</source>
         <translation>Czech</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="315"/>
+        <location filename="../qml/pages/AboutPage.qml" line="330"/>
         <source>Chinese</source>
         <translation>Chinese</translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="331"/>
+        <location filename="../qml/pages/AboutPage.qml" line="346"/>
         <source>Arabic</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/pages/AboutPage.qml" line="349"/>
+        <location filename="../qml/pages/AboutPage.qml" line="364"/>
         <source>Allow skipping timers</source>
         <translation>Allow skipping timers</translation>
     </message>
@@ -290,57 +310,57 @@
 <context>
     <name>MySupportDialog</name>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="13"/>
+        <location filename="../qml/MySupportDialog.qml" line="14"/>
         <source>Donate on %1</source>
         <translation>Donate on %1</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="14"/>
+        <location filename="../qml/MySupportDialog.qml" line="15"/>
         <source>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</source>
         <translation>Pay the amount of a cup of coffee, a slice of pizza, or a ticket to the theater.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="21"/>
-        <source>Translate on %1</source>
-        <translation>Translate on %1</translation>
+        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <source>Support port maintainer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="22"/>
-        <source>Help with translating this app in as many languages as possible.</source>
-        <translation>Help with translating this app in as many languages as possible.</translation>
+        <location filename="../qml/MySupportDialog.qml" line="31"/>
+        <source>Support Aurora OS port maintainer by donating through Boosty.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="29"/>
+        <location filename="../qml/MySupportDialog.qml" line="37"/>
         <source>Develop on %1</source>
         <translation>Develop on %1</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="30"/>
+        <location filename="../qml/MySupportDialog.qml" line="38"/>
         <source>Support with maintenance and packaging, write code, or provide valuable bug reports.</source>
         <translation>Support with maintenance and packaging, write code, or provide valuable bug reports.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="36"/>
+        <location filename="../qml/MySupportDialog.qml" line="44"/>
         <source>Why should you care?</source>
         <translation>Why should you care?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="39"/>
+        <location filename="../qml/MySupportDialog.qml" line="47"/>
         <source>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</source>
         <translation>This project is built with love and passion by a single developer in their spare time, and is provided to you free of charge.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="45"/>
+        <location filename="../qml/MySupportDialog.qml" line="53"/>
         <source>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</source>
         <translation>I develop Free Software because I am convinced that it is the ethical thing to do - and it is a fun hobby. However, developing software takes a lot of time and effort. As Sailfish and living in general costs money, I need your support to be able to spend time on non-paying projects like this.</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="55"/>
+        <location filename="../qml/MySupportDialog.qml" line="63"/>
         <source>Why donate?</source>
         <translation>Why donate?</translation>
     </message>
     <message>
-        <location filename="../qml/MySupportDialog.qml" line="58"/>
+        <location filename="../qml/MySupportDialog.qml" line="66"/>
         <source>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</source>
         <translation>If you can afford it, donating is the easiest way to ensure that I can continue working on apps for Sailfish. Any amount is appreciated, be it a cup of coffee, a slice of pizza, or more.</translation>
     </message>
