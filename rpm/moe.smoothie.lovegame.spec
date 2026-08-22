@@ -14,7 +14,7 @@ Version:    1.2.2.1
 Release:    1
 Group:      Amusements/Games
 License:    GPL-3.0-or-later
-URL:        https://codeberg.org/smooth-e/aurora-lovegame
+URL:        https://github.com/salty-smoothie/aurora-lovegame
 Source0:    %{name}-%{version}.tar.bz2
 Requires:   sailfishsilica-qt5 >= 0.10.9
 BuildRequires:  pkgconfig(auroraapp) >= 1.0.2

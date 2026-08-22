@@ -34,10 +34,10 @@ SupportDialog {
 
     SupportAction {
         icon: SupportIcon.Git
-        title: qsTr("Develop on %1").arg("Codeberg")
+        title: qsTr("Develop on %1").arg("GitHub")
         description: qsTr("Support with maintenance and packaging, " +
                           "write code, or provide valuable bug reports.")
-        link: "https://codeberg.org/smooth-e/aurora-lovegame"
+        link: "https://github.com/salty-smoothie/aurora-lovegame"
     }
 
     DetailsDrawer {
