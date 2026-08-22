@@ -558,36 +558,36 @@
 <context>
     <name>QuestionPage</name>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="63"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="66"/>
         <source>END</source>
         <translation>END</translation>
     </message>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="88"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="91"/>
         <source>Have a pleasant day!</source>
         <comment>translate as plural as two people are addressed</comment>
         <translation>Have a pleasant day!</translation>
     </message>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="129"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="132"/>
         <source>Chapter</source>
         <comment>as in &apos;1st Chapter&apos;</comment>
         <translation>Chapter</translation>
     </message>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="143"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="146"/>
         <source>&lt;b&gt;%1.&lt;/b&gt; %2</source>
         <comment>as in &apos;&lt;b&gt;10.&lt;/b&gt; Ask your partner...</comment>
         <translation>&lt;b&gt;%1.&lt;/b&gt; %2</translation>
     </message>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="163"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="166"/>
         <source>Restart</source>
         <translation>Restart</translation>
     </message>
     <message>
-        <location filename="../qml/pages/QuestionPage.qml" line="191"/>
-        <location filename="../qml/pages/QuestionPage.qml" line="208"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="194"/>
+        <location filename="../qml/pages/QuestionPage.qml" line="211"/>
         <source>Start timer</source>
         <translation>Start timer</translation>
     </message>

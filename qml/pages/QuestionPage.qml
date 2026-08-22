@@ -1,6 +1,7 @@
 /*
  * This file is part of harbour-lovegame.
  * SPDX-FileCopyrightText: 2022-2024 Mirian Margiani
+ * SPDX-FileCopyrightText: 2026 Smooth-E
  * SPDX-License-Identifier: GPL-3.0-or-later
  */
 
@@ -28,7 +29,9 @@ Page {
     readonly property var currentItem: appWindow.questions[currentIndex]
 
     property bool _timerDone: !currentItem.withTimer
-    canNavigateForward: _timerDone && !appWindow.timerRunning
+
+    backNavigation: _timerDone && !appWindow.timerRunning
+    forwardNavigation: backNavigation
 
     palette {
         colorScheme: Theme.LightOnDark
