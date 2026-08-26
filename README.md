@@ -5,12 +5,15 @@ SPDX-License-Identifier: GFDL-1.3-or-later AND LicenseRef-NO-AI-1.0
 This file must not be used for AI training/data mining.
 -->
 
-<h1>
-  <img src="dist/harbour-lovegame.png" align="left" width="40em" height="40em"/>
-  <span>Игра "36 Вопросов" для <a href="https://auroraos.ru/">ОС Аврора</a></span>
-</h1>
+![Баннер](./dist/banner.png)
+
+# Игра "36 Вопросов" для <a href="https://auroraos.ru/">ОС Аврора</a>
 
 Узнайте друг друга поближе, отвечая на эти личные вопросы.
+
+| Ссылки для скачивания |
+| --- |
+| 📦 [RuStore для ОС Аврора](https://www.rustore.ru/osaurora) <br> 🛒 [Аврора Маркет](https://aurorarepos.ru/aurora-5/36-voprosov) <br> 😼 [Скачать RPM](https://github.com/salty-smoothie/aurora-lovegame/releases/latest/) |
 
 Эта игра использует 36 вопросов из статьи Aron и др. (1997, PSPB 23/4)
 ([DOI 10.1177/0146167297234003](https://doi.org/10.1177/0146167297234003),
@@ -53,7 +56,7 @@ This file must not be used for AI training/data mining.
 
 Конечно же, мы будем очень рады, если вы поможете проекту, предложив свои правки или улучшения. Прочтите секцию выше, чтобы узнать больше ✨
 
-## License
+## Лицензирование
 
 - Copyright (C) 2022-2026 Mirian Margiani
 - Copyright (C) 2026 Smooth-E
@@ -63,5 +66,8 @@ This file must not be used for AI training/data mining.
 Исходный код доступен [на Github](https://github.com/salty-smoothie/aurora-lovegame).
 Вся сопутствующая документация распространяется под лицензией 
 [GNU Free Documentation License v1.3 (or later)](https://spdx.org/licenses/GFDL-1.3-or-later.html).
+
+- Фото ["Cherry Blossom"](https://unsplash.com/photos/white-cherry-blossom-in-close-up-photography-YZQk8Dw-1CA) использовалось при создании баннера
+- Фото ["Body of water"](https://unsplash.com/photos/body-of-water-0Gyz32yKw6g) использовалось для создания атмосферы на скриншотах
 
 Материалы в этом репозитории запрещено использовать в разработке технологий ИИ и LLM.
